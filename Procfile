@@ -1,1 +1,1 @@
-web: tsc && node index
+web: yarn add && tsc
