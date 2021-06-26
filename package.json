@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc && node index"
+    "build": "yarn add && tsc",
+    "start": "tsc && node index"
   },
   "type": "module",
   "keywords": [],
