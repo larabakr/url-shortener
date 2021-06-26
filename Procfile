@@ -1,1 +1,1 @@
-web: tsc && node index.js
+web: tsc && node index
