@@ -1,1 +1,1 @@
-web: npm init && tsc
+web: tsc && node index
