@@ -1,6 +1,6 @@
 const links = document.getElementById('links');
 
-fetch('http://localhost:3000/api/links')
+fetch('/api/links')
     .then(res => res.json())
     .then(res => {
         res.forEach(element => {
