@@ -1,1 +1,1 @@
-web: yarn add && tsc
+web: npm init && tsc

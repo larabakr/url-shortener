@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "yarn add && tsc",
+    "build": "npm install && tsc",
     "start": "tsc && node index"
   },
   "type": "module",
